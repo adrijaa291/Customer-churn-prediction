@@ -55,7 +55,7 @@ customer-churn-prediction/
 
 ## 🌐 Live Demo
 
-🔗 _[Add your Streamlit URL here after deployment]_
+🔗 https://customer-churn-prediction-saptejhatjlww5vryo4wrh.streamlit.app/
 
 ---
 
